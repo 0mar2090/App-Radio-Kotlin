@@ -20,7 +20,6 @@
             android:layout_gravity="top"
             android:src="@drawable/song_icon" />
 
-
         <TextView
             android:id="@+id/title"
             android:layout_width="match_parent"
@@ -29,7 +28,7 @@
             android:textStyle="bold"
             android:textSize="30sp"
             android:textColor="@color/white"
-            android:text="Radio La Inolvidable"
+            android:text="Radio La Zona"
             android:src="@drawable/song_icon" />
         <TextView
             android:id="@+id/CP"
@@ -76,16 +75,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
             android:layout_marginLeft="13dp"
-
             android:gravity="center"
             android:text="NEXT" />
 
-
     </LinearLayout>
 
-
- </LinearLayout>
-
-
-
-
+</LinearLayout>
