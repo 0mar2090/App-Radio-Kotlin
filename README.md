@@ -1,5 +1,5 @@
 # Implementar-un-Reproductor-de-Musica-Radio-Online-en-Android-Studio-en-el-Lenguaje-de-Programa
-Implementación de un Reproductor de Musica, Radio Online en Android Studio en el Lenguaje de Programacion Kotlin
+Reproductor de Musica, Radio Online en Android Studio Kotlin
 
 ¿Que es MediaPlayer?
 
