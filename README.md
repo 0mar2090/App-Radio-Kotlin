@@ -14,5 +14,3 @@ La clase AudioManager que administra fuentes y salidas de audio en el dispositiv
 
 Pasos Para el Desarrollo en Android Studio y Kotlin
 En este tutorial aprenderas a realizar un reproductor de streaming de música implementando radio Online en android studio con el lenguaje de programacion kotlin usando una clase llamada MediaPlayer para el desarrollo de aplicaciones Android, comprender la estructura de un proyecto Android, identificar los principales componentes que pueden formar parte de una aplicación, y por supuesto, desarrollaras tu primera aplicación  de radio usando mediapalyer de principio a fin, desde la creación del proyecto hasta su ejecución en el emulador de Android.
-
-Blog-Kotlin  https://systempg.blogspot.com/
